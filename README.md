@@ -15,11 +15,11 @@ I’m passionate about using technology to make teams more effective and outcome
 
 ## What I Do
 
-- End-to-end project coordination: scope, schedule, and risk  
-- Agile delivery practices and team facilitation  
-- Data visualization and reporting using Power BI, Excel, and Tableau  
-- Process improvement through automation and analytics  
-- Communicating clearly with both technical and non-technical stakeholders
+- End-to-end project coordination: scope, schedule, and risk.  
+- Agile delivery practices and team facilitation.  
+- Data visualization and reporting using Power BI, Excel, and Tableau.  
+- Process improvement through automation and analytics.  
+- Communicating clearly with both technical and non-technical stakeholders.
 
 ---
 
@@ -33,18 +33,18 @@ I’m passionate about using technology to make teams more effective and outcome
 
 ## Experience Highlights
 
-- Managed multi-phase projects with up to $170K budgets  
-- Delivered insights to support business and compliance decisions  
-- Mentored junior team members in project workflows and tools  
-- Transitioned from hands-on development to leadership in coordination and analytics
+- Managed multi-phase projects with up to $170K budgets.  
+- Delivered insights to support business and compliance decisions.  
+- Mentored junior team members in project workflows and tools.  
+- Transitioned from hands-on development to leadership in coordination and analytics.
 
 ---
 
 ## Currently Exploring
 
-- AI applications in project forecasting and resource planning  
-- Building smarter, action-oriented dashboards  
-- Bridging the gap between project data and executive decision-making
+- AI applications in project forecasting and resource planning.  
+- Building smarter, action-oriented dashboards.  
+- Bridging the gap between project data and executive decision-making.
 
 ---
 
