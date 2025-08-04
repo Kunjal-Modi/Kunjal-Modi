@@ -1,8 +1,7 @@
 # 👋 Hi there, I’m Kunjal Modi
 
 **Project Coordinator & Data Analytics Enthusiast**  
-PMP® | CPMAI™ | AI‑900 Certified  
-Agile & Scrum Practitioner | Resource & Workflow Optimizer
+PMP® | CPMAI™ | AI‑900 Certified | Agile & Scrum Practitioner | Resource & Workflow Optimizer
 
 ---
 
